@@ -1,0 +1,148 @@
+item_label,item,P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P16,P17,P18,P19,P20
+moral_set1_1,working as a suicide bomber,6,17,17,17,17,17,6,17,17,11,17,17,17,17,17,17,17,17,16,17
+moral_set1_2,pushing a girl off a bridge,9,16,16,16,16,13,16,16,16,13,16,16,16,16,16,15,16,16,15,16
+moral_set1_3,stealing someone's wallet,17,15,15,14,15,14,15,15,15,17,15,15,13,13,14,13,15,15,17,15
+moral_set1_4,thinking about harming myself,15,14,13,15,14,16,17,11,14,7,13,13,15,14,15,16,14,12,12,14
+moral_set1_5,falling off a bridge,13,12,11,12,10,11,14,14,13,14,12,11,14,15,13,14,12,14,10,12
+moral_set1_6,forgetting my mom's birthday,16,13,14,13,13,15,13,9,11,9,14,12,12,12,12,2,13,13,13,13
+moral_set1_7,losing my wallet,8,11,12,11,11,8,12,10,9,16,11,8,11,11,11,11,11,11,14,11
+moral_set1_8,cleaning up litter in a rough neighborhood,1,4,2,2,3,2,3,3,4,6,4,7,4,4,5,4,3,3,1,3
+moral_set1_9,serving on a jury,3,5,3,4,6,12,9,5,7,4,5,4,6,2,7,5,5,6,5,5
+moral_set1_10,mowing the lawn,11,8,9,7,8,7,8,8,8,12,7,14,9,8,8,9,8,7,8,6
+moral_set1_11,sitting in a chair,10,9,10,10,9,10,10,13,10,15,9,10,10,10,10,12,10,9,11,9
+moral_set1_12,running a marathon for fitness,14,7,7,8,7,6,7,7,12,10,8,6,8,7,6,10,7,8,7,8
+moral_set1_13,teaching English to refugees,5,1,4,5,2,3,4,2,2,5,2,3,1,1,1,6,1,2,2,2
+moral_set1_14,running a marathon for charity,4,2,5,3,4,1,5,4,1,8,3,2,2,5,4,3,4,4,4,7
+moral_set1_15,serving food to unhoused people in a soup kitchen,7,3,1,1,1,4,2,1,3,3,1,1,3,3,2,7,2,1,3,1
+moral_set1_16,giving my employees a day off to go to the spa,12,6,6,6,5,5,1,6,5,1,6,5,5,6,3,8,6,5,6,4
+moral_set1_17,winning millions in the lottery,2,10,8,9,12,9,11,12,6,2,10,9,7,9,9,1,9,10,9,10
+moral_set2_1,burning down my neighborhood,18,18,17,18,18,18,17,18,18,8,18,16,18,18,13,14,18,18,18,17
+moral_set2_2,kicking a baby,17,17,18,17,17,17,16,17,17,10,15,18,17,12,18,13,15,17,17,11
+moral_set2_3,cheating on my partner,14,15,16,14,15,15,15,15,16,14,17,17,16,16,15,16,16,16,16,16
+moral_set2_4,breaking someone's heart,13,14,15,16,14,14,14,14,14,17,16,14,15,15,14,9,14,13,15,15
+moral_set2_5,having impure thoughts about a family member,15,16,14,15,16,16,18,16,15,3,14,15,14,17,16,18,17,15,14,18
+moral_set2_6,forgetting my own birthday,16,12,11,11,10,13,13,9,9,12,13,12,12,13,10,12,13,10,11,12
+moral_set2_7,watching a rival sports team lose badly,5,13,13,13,13,10,12,7,11,11,12,13,11,9,11,15,9,11,12,10
+moral_set2_8,falling down the stairs,12,11,12,12,11,12,11,10,12,9,11,11,13,14,8,8,12,12,13,13
+moral_set2_9,thinking about the day's plans,9,7,9,9,8,8,8,11,8,15,9,8,8,10,12,11,10,9,9,14
+moral_set2_10,taking a day off to go to the spa,10,8,8,7,7,6,6,12,6,16,10,9,9,7,7,5,8,14,7,8
+moral_set2_11,walking dogs for a local animal shelter,4,5,2,5,2,3,5,3,3,13,1,3,4,4,17,2,2,3,5,5
+moral_set2_12,rescuing refugees from a sinking life raft,3,1,4,1,1,1,4,1,2,18,2,1,1,1,1,1,1,1,1,2
+moral_set2_13,volunteering at a voting location,8,3,5,4,5,5,3,4,13,5,5,5,6,5,2,3,5,5,3,6
+moral_set2_14,donating money to charity,1,4,3,2,4,2,1,5,1,4,3,4,2,2,3,17,3,2,2,4
+moral_set2_15,paying taxes,6,6,10,6,12,9,7,6,5,2,6,7,7,6,9,7,6,6,6,3
+moral_set2_16,helping someone change their flat tire on the road,7,2,1,3,3,4,2,2,4,1,4,2,3,3,4,10,4,4,4,1
+moral_set2_17,hiking in a beautiful place,2,9,7,8,6,11,10,13,7,6,8,10,10,8,5,6,7,8,8,7
+moral_set2_18,opening a door,11,10,6,10,9,7,9,8,10,7,7,6,5,11,6,4,11,7,10,9
+moral_set3_1,lying on my taxes to get a higher return,13,12,5,14,12,8,13,12,13,12,9,12,9,14,10,12,12,12,12,14
+moral_set3_2,punching my friend in the face,12,14,14,13,14,13,12,14,12,10,14,14,11,12,13,14,14,13,11,12
+moral_set3_3,taking candy from a baby,10,13,13,12,10,14,14,13,14,11,13,13,13,11,14,13,13,14,14,11
+moral_set3_4,running into a burning building to save a precious antique,14,4,4,5,9,1,3,7,3,4,4,1,4,2,1,4,5,3,13,4
+moral_set3_5,punching myself in the face,11,8,12,10,8,12,11,9,10,13,11,11,10,10,11,9,11,11,6,10
+moral_set3_6,dropping and breaking my phone,7,9,10,9,7,10,9,10,6,3,8,9,7,8,8,7,9,9,9,7
+moral_set3_7,losing borrowed book,2,11,11,11,11,6,10,11,11,14,12,10,12,9,12,10,10,10,10,13
+moral_set3_8,watching your favorite movie,1,7,7,6,5,7,6,6,9,1,5,6,5,6,6,6,8,8,7,3
+moral_set3_9,listening to local news,6,5,8,4,4,9,5,5,7,6,7,7,6,7,7,5,6,7,8,5
+moral_set3_10,painting a wall,5,6,6,7,6,5,2,8,8,5,6,4,8,5,5,11,7,6,4,6
+moral_set3_11,buying carbon credits,8,10,9,8,13,11,8,3,5,9,10,8,14,13,9,8,4,2,5,8
+moral_set3_12,writing letters to the local government to support a homeless shelter,4,1,2,3,1,4,4,1,4,8,2,2,2,3,3,1,2,5,3,2
+moral_set3_13,being a pen pal for a child in a developing country,9,2,3,2,2,3,7,4,2,7,3,5,1,4,4,2,1,4,2,9
+moral_set3_14,carrying groceries for an elderly person,3,3,1,1,3,2,1,2,1,2,1,3,3,1,2,3,3,1,1,1
+hedonic_set1_1,working as a suicide bomber,9,17,12,17,17,17,13,17,17,13,17,16,17,17,17,17,17,17,17,17
+hedonic_set1_2,pushing a girl off a bridge,17,16,10,16,16,16,15,16,16,14,15,17,15,14,15,13,16,11,16,16
+hedonic_set1_3,stealing someone's wallet,14,15,11,13,3,15,16,15,15,17,12,14,10,3,3,14,13,3,14,14
+hedonic_set1_4,thinking about harming myself,16,12,16,14,14,13,17,13,10,12,16,10,14,15,14,16,14,6,11,13
+hedonic_set1_5,falling off a bridge,13,13,14,15,15,12,12,14,14,16,14,15,16,16,16,15,15,16,15,15
+hedonic_set1_6,forgetting my mom's birthday,11,14,17,11,12,14,14,12,13,10,13,12,12,10,11,10,11,5,10,12
+hedonic_set1_7,losing my wallet,12,11,15,12,13,11,11,10,12,15,11,13,13,13,13,12,12,15,13,11
+hedonic_set1_8,cleaning up litter in a rough neighborhood,6,4,3,6,11,5,4,5,9,7,10,7,5,8,9,11,5,14,5,5
+hedonic_set1_9,serving on a jury,1,9,4,7,6,10,8,4,3,6,8,5,11,6,7,7,8,10,7,10
+hedonic_set1_10,mowing the lawn,7,7,8,9,10,8,9,11,7,11,9,11,9,2,6,9,9,8,9,6
+hedonic_set1_11,sitting in a chair,15,10,13,8,7,9,10,9,11,8,6,8,8,9,4,8,10,4,12,7
+hedonic_set1_12,running a marathon for fitness,10,8,6,10,2,6,7,7,5,4,3,9,7,11,2,3,6,2,4,9
+hedonic_set1_13,teaching English to refugees,8,2,7,2,5,4,6,1,6,9,7,4,4,7,8,4,2,12,6,4
+hedonic_set1_14,running a marathon for charity,3,1,5,4,8,2,5,6,2,3,4,3,2,4,5,2,4,13,2,8
+hedonic_set1_15,serving food to unhoused people in a soup kitchen,4,3,2,3,9,3,2,2,4,2,5,2,3,5,10,5,3,9,3,3
+hedonic_set1_16,giving my employees a day off to go to the spa,2,5,9,5,4,7,3,8,8,5,2,6,6,12,12,6,7,7,8,2
+hedonic_set1_17,winning millions in the lottery,5,6,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1
+hedonic_set2_1,burning down my neighborhood,16,17,11,18,18,15,18,18,18,18,16,16,18,15,8,16,17,17,17,18
+hedonic_set2_2,kicking a baby,15,13,12,16,17,16,17,17,15,6,13,18,13,12,18,18,16,16,18,16
+hedonic_set2_3,cheating on my partner,3,15,18,17,16,18,14,16,16,16,18,17,17,16,13,12,18,15,15,14
+hedonic_set2_4,breaking someone's heart,18,16,17,14,15,10,16,13,13,15,17,13,16,14,15,15,15,10,14,13
+hedonic_set2_5,having impure thoughts about a family member,13,18,14,15,12,14,15,15,17,7,15,14,15,17,17,11,14,9,12,15
+hedonic_set2_6,forgetting my own birthday,2,11,15,12,14,11,12,12,14,14,11,11,9,13,14,17,13,8,13,12
+hedonic_set2_7,watching a rival sports team lose badly,12,9,5,11,7,12,11,7,11,8,10,4,5,6,11,14,8,4,7,3
+hedonic_set2_8,falling down the stairs,17,14,16,13,13,17,13,14,12,17,12,15,12,11,16,10,12,18,16,17
+hedonic_set2_9,thinking about the day's plans,10,8,9,8,3,6,7,9,8,13,4,9,8,9,3,6,9,3,9,7
+hedonic_set2_10,taking a day off to go to the spa,6,6,8,6,1,9,8,5,4,11,3,2,4,5,1,5,6,2,1,4
+hedonic_set2_11,walking dogs for a local animal shelter,1,3,3,3,4,4,1,1,3,5,9,1,1,2,12,3,3,7,8,9
+hedonic_set2_12,rescuing refugees from a sinking life raft,5,1,1,1,8,2,5,3,1,2,1,3,2,1,7,2,1,11,3,1
+hedonic_set2_13,volunteering at a voting location,4,7,6,7,5,7,4,6,5,12,8,12,11,8,4,7,7,13,5,6
+hedonic_set2_14,donating money to charity,8,2,7,4,10,3,2,8,2,4,7,7,6,4,9,8,5,12,6,5
+hedonic_set2_15,paying taxes,11,12,13,10,9,13,9,11,10,10,14,8,14,18,10,13,11,14,10,11
+hedonic_set2_16,helping someone change their flat tire on the road,7,4,2,2,11,5,3,2,6,3,6,5,3,7,5,4,4,6,4,2
+hedonic_set2_17,hiking in a beautiful place,9,5,4,5,2,1,6,4,7,1,5,6,7,3,2,1,2,1,2,8
+hedonic_set2_18,opening a door,14,10,10,9,6,8,10,10,9,9,2,10,10,10,6,9,10,5,11,10
+hedonic_set3_1,lying on my taxes to get a higher return,9,9,5,10,1,7,9,11,12,9,8,10,3,1,2,5,10,1,14,11
+hedonic_set3_2,punching my friend in the face,14,14,14,14,9,11,13,14,13,12,14,14,9,11,10,13,14,7,10,7
+hedonic_set3_3,taking candy from a baby,11,10,13,13,2,14,14,12,14,11,10,11,13,4,7,14,13,5,8,14
+hedonic_set3_4,running into a burning building to save a precious antique,5,1,1,5,12,2,6,13,4,1,2,4,1,2,6,3,3,3,11,5
+hedonic_set3_5,punching myself in the face,4,11,12,9,8,13,12,9,11,8,13,12,10,12,13,11,9,13,7,13
+hedonic_set3_6,dropping and breaking my phone,8,13,10,12,14,10,7,10,10,13,11,13,12,13,14,12,11,14,13,10
+hedonic_set3_7,losing borrowed book,13,12,11,11,13,12,10,8,9,14,12,9,11,10,12,10,12,10,9,12
+hedonic_set3_8,watching your favorite movie,6,5,7,4,3,1,2,3,6,5,1,1,2,8,1,6,7,2,4,2
+hedonic_set3_9,listening to local news,3,7,9,8,7,8,4,6,7,6,7,8,8,9,4,8,8,12,12,4
+hedonic_set3_10,painting a wall,1,6,3,7,4,4,5,7,8,4,3,5,7,3,5,7,4,6,5,6
+hedonic_set3_11,buying carbon credits,12,8,8,6,5,9,8,5,5,3,9,6,14,14,3,9,6,9,6,9
+hedonic_set3_12,writing letters to the local government to support a homeless shelter,10,4,6,3,11,6,3,4,3,7,5,3,6,7,11,4,5,11,3,3
+hedonic_set3_13,being a pen pal for a child in a developing country,7,3,4,2,6,5,11,2,2,10,6,7,4,6,9,1,2,8,2,8
+hedonic_set3_14,carrying groceries for an elderly person,2,2,2,1,10,3,1,1,1,2,4,2,5,5,8,2,1,4,1,1
+movement_set1_1,working as a suicide bomber,4,8,5,5,9,14,7,8,1,6,4,9,7,4,6,2,9,10,8,5
+movement_set1_2,pushing a girl off a bridge,13,9,7,7,5,6,6,5,2,15,6,8,9,7,8,1,7,8,12,8
+movement_set1_3,stealing someone's wallet,10,6,9,8,7,8,9,9,3,16,8,4,4,8,9,7,8,9,5,7
+movement_set1_4,thinking about harming myself,7,15,13,14,16,13,14,15,14,9,17,15,17,16,14,14,16,3,17,16
+movement_set1_5,falling off a bridge,11,7,6,9,6,3,3,6,10,10,7,13,10,5,7,9,4,5,10,9
+movement_set1_6,forgetting my mom's birthday,14,12,16,16,17,12,17,16,15,11,16,14,16,17,12,17,17,1,16,17
+movement_set1_7,losing my wallet,8,10,14,13,14,10,16,10,12,14,13,11,11,10,10,13,12,4,15,14
+movement_set1_8,cleaning up litter in a rough neighborhood,3,3,4,3,3,4,4,3,8,2,3,5,1,6,5,5,3,15,3,4
+movement_set1_9,serving on a jury,6,13,11,10,12,15,12,13,13,13,10,6,12,13,11,11,10,12,9,13
+movement_set1_10,mowing the lawn,5,4,10,4,8,7,11,7,9,1,5,10,8,3,4,6,5,11,6,3
+movement_set1_11,sitting in a chair,17,11,17,12,13,11,13,12,11,7,11,17,13,11,17,12,15,7,13,11
+movement_set1_12,running a marathon for fitness,2,1,1,1,2,2,1,1,6,4,1,2,2,1,1,3,1,17,2,2
+movement_set1_13,teaching English to refugees,9,14,8,11,10,9,8,11,4,3,9,3,14,12,13,10,11,13,7,10
+movement_set1_14,running a marathon for charity,1,2,2,2,1,1,2,2,5,17,2,1,3,2,2,4,2,16,1,1
+movement_set1_15,serving food to unhoused people in a soup kitchen,12,5,3,6,4,5,5,4,7,5,12,7,5,9,3,8,6,14,4,6
+movement_set1_16,giving my employees a day off to go to the spa,16,16,12,17,11,17,15,17,16,8,14,16,15,15,15,15,13,6,11,15
+movement_set1_17,winning millions in the lottery,15,17,15,15,15,16,10,14,17,12,15,12,6,14,16,16,14,2,14,12
+movement_set2_1,burning down my neighborhood,12,3,2,7,1,1,3,1,4,6,5,4,3,4,13,4,4,18,3,4
+movement_set2_2,kicking a baby,2,9,9,8,5,8,9,8,6,13,8,8,11,7,9,8,9,9,10,6
+movement_set2_3,cheating on my partner,11,13,10,5,11,11,13,9,3,7,10,10,4,8,4,7,5,10,9,7
+movement_set2_4,breaking someone's heart,6,16,14,12,14,14,14,11,14,18,11,12,17,10,15,15,15,4,12,14
+movement_set2_5,having impure thoughts about a family member,3,18,17,14,16,12,17,16,11,12,17,14,16,15,14,17,17,3,16,15
+movement_set2_6,forgetting my own birthday,7,14,16,18,18,18,12,15,17,5,15,15,15,17,16,16,18,1,18,18
+movement_set2_7,watching a rival sports team lose badly,10,11,15,16,15,15,18,13,16,9,14,17,8,14,17,14,14,5,15,13
+movement_set2_8,falling down the stairs,13,8,8,13,7,2,8,6,12,3,6,6,10,5,8,6,8,12,8,10
+movement_set2_9,thinking about the day's plans,14,17,18,11,17,13,11,14,18,15,18,18,18,18,18,13,16,2,17,17
+movement_set2_10,taking a day off to go to the spa,15,7,7,9,10,9,10,10,13,14,9,11,9,12,7,9,12,11,7,16
+movement_set2_11,walking dogs for a local animal shelter,17,5,4,3,3,5,7,2,8,4,2,3,5,3,5,3,3,15,2,5
+movement_set2_12,rescuing refugees from a sinking life raft,1,1,1,1,2,3,1,3,1,2,1,1,1,1,3,1,1,17,1,1
+movement_set2_13,volunteering at a voting location,5,4,6,6,8,7,4,12,2,11,13,7,7,9,6,11,7,16,5,8
+movement_set2_14,donating money to charity,18,15,12,17,13,17,6,18,7,17,12,16,14,16,12,12,10,7,13,11
+movement_set2_15,paying taxes,8,12,13,15,12,16,16,17,10,16,16,13,13,13,11,18,11,6,14,12
+movement_set2_16,helping someone change their flat tire on the road,9,6,5,4,4,6,5,5,5,1,4,5,6,6,2,5,6,13,4,3
+movement_set2_17,hiking in a beautiful place,16,2,3,2,6,4,2,4,9,8,3,2,2,2,1,2,2,14,6,2
+movement_set2_18,opening a door,4,10,11,10,9,10,15,7,15,10,7,9,12,11,10,10,13,8,11,9
+movement_set3_1,lying on my taxes to get a higher return,9,11,12,13,10,14,13,13,12,5,14,14,10,14,10,13,9,5,10,10
+movement_set3_2,punching my friend in the face,11,4,4,4,4,4,5,4,8,3,4,3,3,4,5,3,4,11,6,5
+movement_set3_3,taking candy from a baby,5,6,5,8,6,8,7,6,9,10,5,9,6,6,9,7,8,7,11,8
+movement_set3_4,running into a burning building to save a precious antique,1,1,1,1,1,1,1,2,1,14,1,1,2,1,1,1,1,14,1,1
+movement_set3_5,punching myself in the face,7,5,6,5,5,5,4,5,6,8,6,5,7,5,6,4,5,10,8,4
+movement_set3_6,dropping and breaking my phone,6,7,9,12,9,6,9,7,11,6,7,8,14,7,7,9,11,4,9,11
+movement_set3_7,losing borrowed book,4,8,11,10,14,11,10,14,14,11,8,10,8,11,13,12,12,1,14,14
+movement_set3_8,watching your favorite movie,12,12,13,14,12,12,12,10,10,9,12,13,9,9,14,11,14,3,13,12
+movement_set3_9,listening to local news,14,14,14,11,13,13,14,11,13,12,10,11,12,10,12,10,13,2,12,13
+movement_set3_10,painting a wall,2,2,2,2,3,3,3,1,5,4,3,2,4,2,2,5,3,13,3,3
+movement_set3_11,buying carbon credits,8,13,10,9,11,10,11,12,7,7,9,12,13,13,11,14,10,6,4,9
+movement_set3_12,writing letters to the local government to support a homeless shelter,10,10,7,6,8,7,6,8,4,1,13,4,5,8,4,6,6,9,2,6
+movement_set3_13,being a pen pal for a child in a developing country,13,9,8,7,7,9,8,9,2,13,11,7,11,12,8,8,7,8,5,7
+movement_set3_14,carrying groceries for an elderly person,3,3,3,3,2,2,2,3,3,2,2,6,1,3,3,2,2,12,7,2
